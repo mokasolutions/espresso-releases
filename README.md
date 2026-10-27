@@ -5,7 +5,7 @@ Results update on every keystroke; names, sizes and dates of every file, hidden 
 too, in a native Finder-style window. Nothing leaves your Mac.
 
 - **Documentation:** https://docs.espressoformac.com
-- **Download:** https://espressoformac.com/download/ (macOS 14 Sonoma or later, Apple silicon and Intel). Espresso updates itself afterwards.
+- **Download:** https://espressoformac.com/download/ (macOS 14 Sonoma or later, Apple silicon and Intel), or with Homebrew: `brew install mokasolutions/tap/espresso-search`. Espresso updates itself afterwards.
 - **Problems and ideas:** [Issues](https://github.com/mokasolutions/espresso-releases/issues)
 - **Support:** support@mokasolutions.dev
 
